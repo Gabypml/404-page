@@ -1,0 +1,40 @@
+﻿body {
+    color: white;
+    background-color: black;
+    background-image: url("GLITCH404.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    overflow: hidden;
+}
+.Posi {
+
+
+    position: relative; top: 280px; left:570px;
+
+
+}
+
+.ERREUR {
+
+    font-size: 70px;
+
+}
+
+.nombre {
+
+    font-size: 70px;
+    padding-left: 70px;
+
+}
+
+.lien {
+
+    font-size:40px;
+    position: relative; top: 220px; left: 590px;
+}
+a {
+
+    color:white;
+}
